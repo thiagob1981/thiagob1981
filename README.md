@@ -21,7 +21,9 @@ Lakehouse architectures, data platforms & analytics at scale.
 ### Certifications
 
 ![Databricks](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Fabric](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Fabric DE](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Fabric AE](https://img.shields.io/badge/Microsoft-Fabric_Analytics_Engineer_Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
