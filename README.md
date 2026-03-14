@@ -17,7 +17,7 @@ Senior Data & Analytics Engineer specializing in Data Lakehouse and Big Data sol
 
 I design and build end-to-end analytical solutions: from ingestion pipelines to Gold-layer data products powering executive dashboards and strategic decisions. I work with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric, applying medallion architecture, dimensional modeling, and data governance with Unity Catalog and Microsoft Purview.
 
-Based in Vitória, Brazil. 25+ years in data engineering.
+Based in Vitória, Brazil. 30 years in data engineering.
 
 ---
 
